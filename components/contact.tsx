@@ -9,7 +9,7 @@ export function Contact() {
           <h2 className="mb-3 md:mb-4 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-foreground">
             Get in Touch
           </h2>
-          <p className="text-base md:text-lg text-muted-foreground">Let's build the future — together</p>
+          <p className="text-base md:text-lg text-muted-foreground">Let's build the future together</p>
         </div>
 
         <div className="mx-auto max-w-4xl">
@@ -21,7 +21,7 @@ export function Contact() {
                     <Mail className="h-6 w-6" />
                   </div>
                   <h3 className="mb-2 font-semibold text-card-foreground">Email</h3>
-                  <p className="text-sm text-muted-foreground break-all">SeteleleTMHOLDINGS@OUTLOOK.COM</p>
+                  <p className="text-sm text-muted-foreground break-all">seteleletmholdings@outlook.com</p>
                   <p className="mt-1 text-sm text-muted-foreground break-all">seteleletebogomoyahobo@gmail.com</p>
                 </div>
 
@@ -30,7 +30,7 @@ export function Contact() {
                     <Phone className="h-6 w-6" />
                   </div>
                   <h3 className="mb-2 font-semibold text-card-foreground">Phone</h3>
-                  <p className="text-sm text-muted-foreground">060 329 9098</p>
+                  <p className="text-sm text-muted-foreground">+27603299098</p>
                 </div>
 
                 <div className="text-center sm:col-span-2 lg:col-span-1">
