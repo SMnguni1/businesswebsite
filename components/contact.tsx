@@ -22,7 +22,6 @@ export function Contact() {
                   </div>
                   <h3 className="mb-2 font-semibold text-card-foreground">Email</h3>
                   <p className="text-sm text-muted-foreground break-all">seteleletmholdings@outlook.com</p>
-                  <p className="mt-1 text-sm text-muted-foreground break-all">seteleletebogomoyahobo@gmail.com</p>
                 </div>
 
                 <div className="text-center">
@@ -30,7 +29,7 @@ export function Contact() {
                     <Phone className="h-6 w-6" />
                   </div>
                   <h3 className="mb-2 font-semibold text-card-foreground">Phone</h3>
-                  <p className="text-sm text-muted-foreground">+27603299098</p>
+                  <p className="text-sm text-muted-foreground">+27 60 329 9098</p>
                 </div>
 
                 <div className="text-center sm:col-span-2 lg:col-span-1">
