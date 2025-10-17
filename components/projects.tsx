@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Residential Building Development",
     location: "Durban North",
-    year: "2024",
+    year: "2025",
     description: "Complete residential development featuring modern architecture and sustainable design principles.",
   },
   {

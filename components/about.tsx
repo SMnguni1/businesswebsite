@@ -7,7 +7,7 @@ export function About() {
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="mb-4 text-3xl font-bold tracking-tight text-foreground md:text-5xl">About Us</h2>
           <p className="mb-12 text-lg text-muted-foreground">
-            SETELELE TM HOLDINGS is a multidisciplinary company that operates across several key sectors, including
+            Setelele TM Holdings is a multidisciplinary company that operates across several key sectors, including
             construction, engineering, security, manufacturing, property, and automotive services.
           </p>
         </div>

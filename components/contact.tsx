@@ -38,7 +38,7 @@ export function Contact() {
                     <MapPin className="h-6 w-6" />
                   </div>
                   <h3 className="mb-2 font-semibold text-card-foreground">Location</h3>
-                  <p className="text-sm text-muted-foreground">49 Coventry street Ophirton</p>
+                  <p className="text-sm text-muted-foreground">49 Coventry Street, Ophirton</p>
                 </div>
               </div>
             </CardContent>
