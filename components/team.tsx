@@ -16,6 +16,11 @@ const team = [
     role: "Director",
     description: "Dedicated leader ensuring every client receives timely and reliable service.",
   },
+  {
+    name: "Mxolisi Ngcobo",
+    role: "Director",
+    description: "Dedicated to providing top-notch service and driving business growth.",
+  }, 
 ]
 
 export function Team() {
