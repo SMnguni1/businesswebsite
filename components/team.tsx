@@ -7,7 +7,7 @@ const team = [
     description: "A visionary entrepreneur with a passion for infrastructure development and business innovation.",
   },
   {
-    name: "Temoso Sekoorutla Setelele",
+    name: "Temoso Sekgorutla Setelele",
     role: "Director",
     description: "Skilled professional with years of field experience in construction, electrical, and engineering.",
   },
